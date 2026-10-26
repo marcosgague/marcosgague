@@ -35,7 +35,7 @@
 | [vaulted-android](https://github.com/marcosgague/vaulted-android) | Gestor multiplataforma para Android | Java |
 | [DAMArchiveLibreria](https://github.com/marcosgague/DAMArchiveLibreria) | Librería de práctica, trabajo final del ciclo | TypeScript |
 | [ramabit-landing](https://github.com/marcosgague/ramabit-landing) | Landing de Ramabit SL | CSS |
-| [torti-azteca-web](https://github.com/marcosgague/torti-azteca-web) | Web de Torti Azteca | HTML |
+| [quake-map](https://github.com/marcosgague/quake-map) | Mapa de terremotos en tiempo real ([demo](https://marcosgague.github.io/quake-map/)) | TypeScript |
 
 ## 📊 Estadísticas
 
