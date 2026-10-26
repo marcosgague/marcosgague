@@ -16,6 +16,7 @@
 - 🏠 Trabajando desde casa
 - 🎓 Ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM)
 - 🛠️ Construyo landings, apps móviles y herramientas para negocios reales
+- 📱 Desarrollo y vendo una app de gestión para gimnasios, en iOS y Android (producto privado)
 - 📬 Escríbeme por LinkedIn
 
 ## 🧰 Stack
@@ -34,7 +35,6 @@
 | [vaulted-android](https://github.com/marcosgague/vaulted-android) | Gestor multiplataforma para Android | Java |
 | [DAMArchiveLibreria](https://github.com/marcosgague/DAMArchiveLibreria) | Librería de práctica, trabajo final del ciclo | TypeScript |
 | [ramabit-landing](https://github.com/marcosgague/ramabit-landing) | Landing de Ramabit SL | CSS |
-| [gymapp-landing](https://github.com/marcosgague/gymapp-landing) | Landing de GymApp | CSS |
 | [torti-azteca-web](https://github.com/marcosgague/torti-azteca-web) | Web de Torti Azteca | HTML |
 
 ## 📊 Estadísticas
